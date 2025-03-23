@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Natalya Aragão
 
-Sou estudante de Ciência da Computação na USP, com interesse em desenvolvimento de software e análise de dados.  
+Sou estudante de Ciência da Computação com interesse em desenvolvimento de software e análise de dados.  
 
 ---
 
